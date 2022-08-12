@@ -1,0 +1,9 @@
+1. Variables: Son contenedores de informacion a los que se puede acceder y modificar.
+
+2. Strings: Son cadenas de texto que se pueden manipular.
+
+3. Funciones: Son bloques de codigo que se pueden ejecutar.
+
+4. Declaraciones "if": Son condiciones que se pueden evaluar.
+
+5. Valores booleanos: Son valores que pueden ser verdadero o falso.
