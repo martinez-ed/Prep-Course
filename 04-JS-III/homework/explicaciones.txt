@@ -1,0 +1,1 @@
+1. Arrays: Son una colección de datos que se pueden acceder de forma directa o indirecta. Se pueden acceder a los datos de un array mediante un índice numérico o una cadena de texto. Los arrays están compuestos por una serie de datos separados por comas.
