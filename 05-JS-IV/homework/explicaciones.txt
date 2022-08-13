@@ -1,0 +1,11 @@
+1. Objetos: Son elementos que se pueden manipular y compartir. Los objetos son una forma de agrupar datos y funcionalidad.
+
+2. Propiedades: Son las características que un objeto puede tener. Ayudan a definir un objeto.
+
+3. Métodos: Son las acciones que un objeto puede realizar. Ayudan a definir un objeto.
+
+4. Bucle "for...in": Es un bucle que itera sobre un objeto. Se usa para recorrer todas las propiedades de un objeto.
+
+5. Notación de punto: Es una notación que se usa para acceder a una propiedad de un objeto.
+
+6. Notación de corchete: Es una notación que se usa para acceder a un elemento de un array.
