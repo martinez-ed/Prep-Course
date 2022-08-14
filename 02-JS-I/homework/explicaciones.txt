@@ -1,9 +1,9 @@
-1. Variables: Son contenedores de informacion a los que se puede acceder y modificar.
+1. Variables: son una forma de almacenar información en un programa. Requieren un nombre y un valor. Una variable puede ser de tipo numérico, de tipo cadena, booleano o de tipo objeto.
 
-2. Strings: Son cadenas de texto que se pueden manipular.
+2. Strings: string o cadena es una secuencia de caracteres que se pueden manipular. Las cadenas se pueden usar para almacenar texto, números, palabras, etc.
 
-3. Funciones: Son bloques de codigo que se pueden ejecutar.
+3. Funciones: son una secuencia de instrucciones que se pueden ejecutar. Son una forma de agrupar un conjunto de instrucciones que se pueden repetir. Las funciones pueden recibir parámetros y devolver valores.
 
-4. Declaraciones "if": Son condiciones que se pueden evaluar.
+4. Declaraciones "if": Sirven para ayudar a una función a verificar una condición y ejecutar una o varias instrucciones. 
 
-5. Valores booleanos: Son valores que pueden ser verdadero o falso.
+5. Valores booleanos: Son valores que pueden ser verdadero o falso y se usan para verificar condiciones.
