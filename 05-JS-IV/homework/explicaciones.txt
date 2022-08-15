@@ -1,11 +1,11 @@
-1. Objetos: Son elementos que se pueden manipular y compartir. Los objetos son una forma de agrupar datos y funcionalidad.
+1. Objetos: Son una colección de propiedades y métodos. Tienen una estructura de datos de tipo clave-valor. Sirven para almacenar datos y procesarlos de forma rápida y eficiente. JAvaScript esta diseñado sobre un paradigma simple basado en objetos.
 
-2. Propiedades: Son las características que un objeto puede tener. Ayudan a definir un objeto.
+2. Propiedades: Son las características que un objeto puede tener. Tienen una estructura de datos de tipo clave-valor. Se pueden acceder a los valores de las propiedades llamando al nombre del objeto y a la clave (key) con el operador punto o corchete.
 
-3. Métodos: Son las acciones que un objeto puede realizar. Ayudan a definir un objeto.
+3. Métodos: Son funciones guardadas en un objeto. Se establecen con la clave para un nombre y el valor para una función. Los métodos son acciones que se pueden ejecutar sobre un objeto. Se pueden llamar a los métodos con la notación de punto y paréntesis final. Los métodos pueden recibir parámetros y retornar valores.
 
-4. Bucle "for...in": Es un bucle que itera sobre un objeto. Se usa para recorrer todas las propiedades de un objeto.
+4. Bucle "for...in": Sirve para iterar sobre el par clave-valor de un objeto. Se usa para recorrer todas las propiedades o métodos de un objeto. Podemos usar una variable "clave" junto con la notación de corchete para recorrer el objeto y acceder a los valores de las propiedades o métodos.
 
-5. Notación de punto: Es una notación que se usa para acceder a una propiedad de un objeto.
+5. Notación de punto: Es una notación que se usa para acceder a los valores de un objeto, a sus propiedades o métodos. Se usa llamando al nombre del objeto, seguido de un punto (.) y el nombre de la propiedad o método (la clave).
 
-6. Notación de corchete: Es una notación que se usa para acceder a un elemento de un array.
+6. Notación de corchete: Asi como se llama a un elemento en un array, es una notación que se usa para acceder a un valor de una propiedad o método de un objeto y se llama a la clave enovolviendola en comillas. Se usa principalmente con variables.
