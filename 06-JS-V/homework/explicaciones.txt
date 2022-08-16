@@ -1,0 +1,3 @@
+1. prototype: En JavaScript es una palabra reservada que se usa como una propiedad de las clases y sirve para definir una función que se puede ejecutar en cualquier instancia de una clase. 
+
+2. Un constructor o "class": Sirve como una plantilla para crear una cantidad ilimiada de objetos los cuales comparten algunas de las mismas propiedades y métodos. Las clases se escriben con mayúscula inicial. Para crear nuevos objetos se usa la palabra reservada new.
