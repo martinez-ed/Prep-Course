@@ -1,0 +1,1 @@
+1. Funciones callback: Sirven para pasar una función como parámetro a otra función, pueden llamarse en cualquier momento y pasar argumentos dentro de ellas. Son funciones que se ejecutan cuando una acción se completa. Se pueden usar para hacer llamadas a APIs externas o para mostrar mensajes en pantalla.
